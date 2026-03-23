@@ -1,0 +1,1 @@
+export { extractDailyFocus } from './algorithm';
